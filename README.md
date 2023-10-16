@@ -28,7 +28,7 @@
 <br/>
 
 <a href="https://github.com/lucasguima12">
-  <img height="180em" src="https://github-readme-stats-lucasguima12.vercel.app/api?username=lucasguima12&theme=dracula&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats-gilt-rho.vercel.app/api?username=lucasguima12&theme=dracula&show_icons=true" />
 </a>
 
 <br/>
@@ -36,10 +36,10 @@
 <b> Principais Repositórios</b>:
 
 <a href="https://github.com/lucasguima12/Projeto-Machine-Learning">
-  <img height="120em" src="https://github-readme-stats-lucasguima12.vercel.app/api/pin/?username=lucasguima12&repo=Projeto-Machine-Learning&theme=dark" />
+  <img height="120em" src="https://github-readme-stats-gilt-rho.vercel.app/api/pin/?username=lucasguima12&repo=Projeto-Machine-Learning&theme=dark" />
 </a>
 
 <a href="https://https://github.com/lucasguima12/Projeto-Titanic">
-  <img height="120em" src="https://github-readme-stats-lucasguima12.vercel.app/api/pin/?username=lucasguima12&repo=Projeto-Titanic&theme=dark" />
+  <img height="120em" src="https://github-readme-stats-gilt-rho.vercel.app/api/pin/?username=lucasguima12&repo=Projeto-Titanic&theme=dark" />
 </a>
 
