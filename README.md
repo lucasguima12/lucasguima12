@@ -35,8 +35,8 @@
 
 <b> Principais Repositórios</b>:
 
-<a href="https://github.com/lucasguima12/Projeto-Machine-Learning">
-  <img height="120em" src="https://github-readme-stats-iota-hazel-90.vercel.app/api/pin/?username=lucasguima12&repo=Projeto-Machine-Learning&theme=dark" />
+<a href="https://github.com/lucasguima12/Analise-de-Dados-SIOPE">
+  <img height="120em" src="https://github-readme-stats-iota-hazel-90.vercel.app/api/pin/?username=lucasguima12&repo=Analise-de-Dados-SIOPE&theme=dark" />
 </a>
 
 <a href="https://https://github.com/lucasguima12/Projeto-Titanic">
