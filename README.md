@@ -43,3 +43,19 @@
   <img height="120em" src="https://github-readme-stats-iota-hazel-90.vercel.app/api/pin/?username=lucasguima12&repo=Analise-de-Dados-Enade&theme=dark" />
 </a>
 
+<b> Projetos de Machine Learning</b>:
+
+<a href="https://github.com/lucasguima12/Projeto-House-Prices">
+  <img height="120em" src="https://github-readme-stats-iota-hazel-90.vercel.app/api/pin/?username=lucasguima12&repo=Projeto-House-Prices&theme=dark" />
+</a>
+
+<a href="https://github.com/lucasguima12/Projeto-Spaceship-Titanic">
+  <img height="120em" src="https://github-readme-stats-iota-hazel-90.vercel.app/api/pin/?username=lucasguima12&repo=Projeto-Spaceship-Titanic&theme=dark" />
+</a>
+
+<a href="https://github.com/lucasguima12/Projeto-Titanic">
+  <img height="120em" src="https://github-readme-stats-iota-hazel-90.vercel.app/api/pin/?username=lucasguima12&repo=Projeto-Titanic&theme=dark" />
+</a>
+
+
+
